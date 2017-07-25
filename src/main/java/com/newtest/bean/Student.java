@@ -1,9 +1,5 @@
 package com.newtest.bean;
 
-import java.util.List;
-
-import com.newtest.entity.StudentEntity;
-
 public class Student {
 
 	private Integer id;
